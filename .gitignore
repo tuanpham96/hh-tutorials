@@ -4,3 +4,5 @@
 /.vscode
 __pycache__
 .DS_Store
+x86_64*
+.ipynb_checkpoints*
